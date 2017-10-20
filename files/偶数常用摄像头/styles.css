@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:544px;
+  width:375px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -912,13 +912,6 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u45_ann {
-  position:absolute;
-  left:748px;
-  top:2px;
-  width:1px;
-  height:1px;
-}
 #u66_div {
   position:absolute;
   left:0px;
@@ -938,8 +931,8 @@
 }
 #u66 {
   position:absolute;
-  left:394px;
-  top:410px;
+  left:119px;
+  top:687px;
   width:150px;
   height:150px;
   font-size:12px;
